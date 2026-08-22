@@ -3,17 +3,17 @@ hey! i'm Sara Tazi
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,docker,java,php,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,nodejs,mysql,docker,java,php" />
 </p>
 
 ## 🛠️ Tools & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,npm,vercel,firebase,visualstudio,bitbucket,postman,nvidia" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,visualstudio,nvidia" />
 </p>
 
 ## 🎨 UI / UX Design
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps" />
+  <img src="https://skillicons.dev/icons?i=ps" />
 </p>
