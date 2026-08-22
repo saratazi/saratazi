@@ -1,16 +1,19 @@
-## Hi there 👋
+# Tech Stack
+hey! i'm Sara Tazi
+## 💻 Tech Stack
 
-<!--
-**saratazi/saratazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,docker,java,php,python" />
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ Tools & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gitlab,npm,vercel,firebase,visualstudio,bitbucket,postman,nvidia" />
+</p>
+
+## 🎨 UI / UX Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
