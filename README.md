@@ -3,7 +3,7 @@ hey! i'm Sara Tazi
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,nodejs,mysql,docker,java,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,linux,nodejs,mysql,docker,java,php" />
 </p>
 
 ## 🛠️ Tools & DevOps
