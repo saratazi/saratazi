@@ -1,4 +1,4 @@
-# Tech Stack
+
 hey! i'm Sara Tazi
 ## 💻 Tech Stack
 
