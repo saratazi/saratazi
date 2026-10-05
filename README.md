@@ -1,5 +1,5 @@
 
-##hey! i'm Sara Tazi
+## hey! i'm Sara Tazi
 ## 💻 Tech Stack
 
 <p align="center">
